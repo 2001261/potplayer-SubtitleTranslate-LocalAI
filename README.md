@@ -46,26 +46,26 @@ PotPlayer本地AI字幕翻译插件
 
 ### 英语翻译示例
 
-![英语翻译示例1](示例图片/English/0w4mqywc.glb.png)
-![英语翻译示例2](示例图片/English/f2qxeovr.jyc.png)
-![英语翻译示例3](示例图片/English/n1jjlf5t.kdr.png)
-![英语翻译示例4](示例图片/English/tvc4mkzb.5az.png)
+![英语翻译示例1](example_images/English/0w4mqywc.glb.png)
+![英语翻译示例2](example_images/English/f2qxeovr.jyc.png)
+![英语翻译示例3](example_images/English/n1jjlf5t.kdr.png)
+![英语翻译示例4](example_images/English/tvc4mkzb.5az.png)
 
 ### 日语翻译示例
 
 #### 千与千寻
 
-![千与千寻翻译示例1](示例图片/Japanese/Spirited Away/swvqzfe4.lvr.png)
-![千与千寻翻译示例2](示例图片/Japanese/Spirited Away/2.png)
+![千与千寻翻译示例1](example_images/Japanese/Spirited Away/swvqzfe4.lvr.png)
+![千与千寻翻译示例2](example_images/Japanese/Spirited Away/2.png)
 
 #### Legal High
 
-![Legal High翻译示例1](示例图片/Japanese/Legal High/00tfd21v.vxk.png)
-![Legal High翻译示例2](示例图片/Japanese/Legal High/0s2kfzjt.5ga.png)
+![Legal High翻译示例1](example_images/Japanese/Legal High/00tfd21v.vxk.png)
+![Legal High翻译示例2](example_images/Japanese/Legal High/0s2kfzjt.5ga.png)
 
 ### 韩语翻译示例
 
-![韩语翻译示例](示例图片/Korean/wwagqs2y.qvd.png)
+![韩语翻译示例](example_images/Korean/wwagqs2y.qvd.png)
 
 ## 支持的语言
 
