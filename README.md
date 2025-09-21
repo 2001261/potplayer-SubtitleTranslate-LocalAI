@@ -60,8 +60,8 @@ PotPlayer本地AI字幕翻译插件
 
 #### Legal High
 
-![Legal High翻译示例1](example_images/Japanese/Legal High/00tfd21v.vxk.png)
-![Legal High翻译示例2](example_images/Japanese/Legal High/0s2kfzjt.5ga.png)
+![Legal High翻译示例1](example_images/Japanese/Legal_High/00tfd21v.vxk.png)
+![Legal High翻译示例2](example_images/Japanese/Legal_High/0s2kfzjt.5ga.png)
 
 ### 韩语翻译示例
 
