@@ -56,7 +56,7 @@ PotPlayer本地AI字幕翻译插件
 #### 千与千寻
 
 ![千与千寻翻译示例1](示例图片/日语/千与千寻/swvqzfe4.lvr.png)
-![千与千寻翻译示例2](C:\Users\King\Desktop\code_test\翻译\示例图片\日语\千与千寻\2.png)
+![千与千寻翻译示例2](示例图片/日语/千与千寻/2.png)
 
 #### Legal High
 
