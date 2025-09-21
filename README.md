@@ -55,8 +55,8 @@ PotPlayer本地AI字幕翻译插件
 
 #### 千与千寻
 
-![千与千寻翻译示例1](example_images/Japanese/Spirited Away/swvqzfe4.lvr.png)
-![千与千寻翻译示例2](example_images/Japanese/Spirited Away/2.png)
+![千与千寻翻译示例1](example_images/Japanese/Spirited_Away/swvqzfe4.lvr.png)
+![千与千寻翻译示例2](example_images/Japanese/Spirited_Away/2.png)
 
 #### Legal High
 
